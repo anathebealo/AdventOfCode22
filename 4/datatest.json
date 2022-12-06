@@ -1,0 +1,60 @@
+[{
+	"a": {
+		"minimum": 2,
+		"maximum": 8
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 7
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 7
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 6
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 6
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 8
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 4
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 8
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 3
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 5
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 7
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 9
+	}
+}]

@@ -1,0 +1,10000 @@
+[{
+	"a": {
+		"minimum": 14,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 14
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 20
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 3
+	}
+},
+{
+	"a": {
+		"minimum": 64,
+		"maximum": 67
+	},
+	"b": {
+		"minimum": 43,
+		"maximum": 63
+	}
+},
+{
+	"a": {
+		"minimum": 13,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 47
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 19
+	}
+},
+{
+	"a": {
+		"minimum": 26,
+		"maximum": 74
+	},
+	"b": {
+		"minimum": 26,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 41
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 41
+	}
+},
+{
+	"a": {
+		"minimum": 46,
+		"maximum": 67
+	},
+	"b": {
+		"minimum": 41,
+		"maximum": 66
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 42
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 42
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 23
+	},
+	"b": {
+		"minimum": 24,
+		"maximum": 26
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 38
+	},
+	"b": {
+		"minimum": 18,
+		"maximum": 37
+	}
+},
+{
+	"a": {
+		"minimum": 82,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 83
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 53,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 53,
+		"maximum": 54
+	}
+},
+{
+	"a": {
+		"minimum": 18,
+		"maximum": 80
+	},
+	"b": {
+		"minimum": 18,
+		"maximum": 34
+	}
+},
+{
+	"a": {
+		"minimum": 83,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 83
+	}
+},
+{
+	"a": {
+		"minimum": 20,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 19,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 32
+	},
+	"b": {
+		"minimum": 31,
+		"maximum": 70
+	}
+},
+{
+	"a": {
+		"minimum": 25,
+		"maximum": 59
+	},
+	"b": {
+		"minimum": 48,
+		"maximum": 58
+	}
+},
+{
+	"a": {
+		"minimum": 54,
+		"maximum": 55
+	},
+	"b": {
+		"minimum": 54,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 28
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 36
+	}
+},
+{
+	"a": {
+		"minimum": 21,
+		"maximum": 66
+	},
+	"b": {
+		"minimum": 21,
+		"maximum": 66
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 78
+	},
+	"b": {
+		"minimum": 23,
+		"maximum": 61
+	}
+},
+{
+	"a": {
+		"minimum": 43,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 43,
+		"maximum": 43
+	}
+},
+{
+	"a": {
+		"minimum": 21,
+		"maximum": 62
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 78
+	}
+},
+{
+	"a": {
+		"minimum": 81,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 78,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 21,
+		"maximum": 21
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 22
+	}
+},
+{
+	"a": {
+		"minimum": 62,
+		"maximum": 68
+	},
+	"b": {
+		"minimum": 63,
+		"maximum": 67
+	}
+},
+{
+	"a": {
+		"minimum": 80,
+		"maximum": 83
+	},
+	"b": {
+		"minimum": 30,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 88
+	},
+	"b": {
+		"minimum": 81,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 48,
+		"maximum": 53
+	},
+	"b": {
+		"minimum": 49,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 49,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 48,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 91,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 71,
+		"maximum": 71
+	},
+	"b": {
+		"minimum": 70,
+		"maximum": 71
+	}
+},
+{
+	"a": {
+		"minimum": 95,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 99,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 14,
+		"maximum": 40
+	},
+	"b": {
+		"minimum": 13,
+		"maximum": 41
+	}
+},
+{
+	"a": {
+		"minimum": 9,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 9
+	}
+},
+{
+	"a": {
+		"minimum": 17,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 35
+	}
+},
+{
+	"a": {
+		"minimum": 71,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 94,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 97,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 19,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 64
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 65
+	}
+},
+{
+	"a": {
+		"minimum": 28,
+		"maximum": 79
+	},
+	"b": {
+		"minimum": 42,
+		"maximum": 55
+	}
+},
+{
+	"a": {
+		"minimum": 16,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 15,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 75,
+		"maximum": 77
+	},
+	"b": {
+		"minimum": 76,
+		"maximum": 78
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 80
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 37
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 64
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 25
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 26
+	}
+},
+{
+	"a": {
+		"minimum": 42,
+		"maximum": 43
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 43
+	}
+},
+{
+	"a": {
+		"minimum": 16,
+		"maximum": 49
+	},
+	"b": {
+		"minimum": 15,
+		"maximum": 17
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 49
+	},
+	"b": {
+		"minimum": 49,
+		"maximum": 50
+	}
+},
+{
+	"a": {
+		"minimum": 33,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 34,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 8,
+		"maximum": 75
+	}
+},
+{
+	"a": {
+		"minimum": 97,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 71,
+		"maximum": 72
+	},
+	"b": {
+		"minimum": 19,
+		"maximum": 71
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 4
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 33
+	},
+	"b": {
+		"minimum": 33,
+		"maximum": 40
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 34
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 35
+	}
+},
+{
+	"a": {
+		"minimum": 17,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 82,
+		"maximum": 82
+	},
+	"b": {
+		"minimum": 82,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 35,
+		"maximum": 63
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 62
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 88,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 85,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 60,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 84,
+		"maximum": 86
+	},
+	"b": {
+		"minimum": 39,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 83,
+		"maximum": 83
+	},
+	"b": {
+		"minimum": 82,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 39,
+		"maximum": 60
+	},
+	"b": {
+		"minimum": 40,
+		"maximum": 60
+	}
+},
+{
+	"a": {
+		"minimum": 34,
+		"maximum": 83
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 89,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 57,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 8,
+		"maximum": 78
+	}
+},
+{
+	"a": {
+		"minimum": 11,
+		"maximum": 12
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 75,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 53,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 52,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 45
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 86
+	}
+},
+{
+	"a": {
+		"minimum": 32,
+		"maximum": 78
+	},
+	"b": {
+		"minimum": 31,
+		"maximum": 78
+	}
+},
+{
+	"a": {
+		"minimum": 48,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 49,
+		"maximum": 80
+	}
+},
+{
+	"a": {
+		"minimum": 28,
+		"maximum": 28
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 29
+	}
+},
+{
+	"a": {
+		"minimum": 49,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 49,
+		"maximum": 83
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 24
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 26
+	}
+},
+{
+	"a": {
+		"minimum": 22,
+		"maximum": 32
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 31
+	}
+},
+{
+	"a": {
+		"minimum": 41,
+		"maximum": 51
+	},
+	"b": {
+		"minimum": 26,
+		"maximum": 46
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 24,
+		"maximum": 33
+	},
+	"b": {
+		"minimum": 27,
+		"maximum": 81
+	}
+},
+{
+	"a": {
+		"minimum": 94,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 8,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 49,
+		"maximum": 51
+	},
+	"b": {
+		"minimum": 50,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 17,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 16,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 9,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 29,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 30,
+		"maximum": 70
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 8
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 58
+	},
+	"b": {
+		"minimum": 19,
+		"maximum": 78
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 5
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 1
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 57
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 77
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 57
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 57
+	}
+},
+{
+	"a": {
+		"minimum": 73,
+		"maximum": 73
+	},
+	"b": {
+		"minimum": 38,
+		"maximum": 74
+	}
+},
+{
+	"a": {
+		"minimum": 33,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 26,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 32,
+		"maximum": 64
+	},
+	"b": {
+		"minimum": 45,
+		"maximum": 65
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 35,
+		"maximum": 78
+	},
+	"b": {
+		"minimum": 34,
+		"maximum": 78
+	}
+},
+{
+	"a": {
+		"minimum": 32,
+		"maximum": 58
+	},
+	"b": {
+		"minimum": 32,
+		"maximum": 57
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 85,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 68,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 72,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 41
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 74
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 43
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 39
+	}
+},
+{
+	"a": {
+		"minimum": 14,
+		"maximum": 72
+	},
+	"b": {
+		"minimum": 42,
+		"maximum": 72
+	}
+},
+{
+	"a": {
+		"minimum": 86,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 20,
+		"maximum": 48
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 47
+	}
+},
+{
+	"a": {
+		"minimum": 86,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 49,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 43,
+		"maximum": 52
+	},
+	"b": {
+		"minimum": 42,
+		"maximum": 52
+	}
+},
+{
+	"a": {
+		"minimum": 85,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 68,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 27
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 27
+	}
+},
+{
+	"a": {
+		"minimum": 90,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 42,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 24,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 23,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 77,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 78,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 15,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 90,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 48,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 49,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 72,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 67
+	}
+},
+{
+	"a": {
+		"minimum": 74,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 36,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 97,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 17,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 24,
+		"maximum": 48
+	},
+	"b": {
+		"minimum": 16,
+		"maximum": 47
+	}
+},
+{
+	"a": {
+		"minimum": 54,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 55,
+		"maximum": 65
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 15
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 36
+	}
+},
+{
+	"a": {
+		"minimum": 11,
+		"maximum": 22
+	},
+	"b": {
+		"minimum": 10,
+		"maximum": 23
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 17,
+		"maximum": 71
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 86
+	}
+},
+{
+	"a": {
+		"minimum": 83,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 24,
+		"maximum": 52
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 90,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 68
+	},
+	"b": {
+		"minimum": 63,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 87,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 37,
+		"maximum": 88
+	},
+	"b": {
+		"minimum": 37,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 48,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 89,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 21,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 21
+	}
+},
+{
+	"a": {
+		"minimum": 36,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 23
+	},
+	"b": {
+		"minimum": 21,
+		"maximum": 23
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 69
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 68
+	}
+},
+{
+	"a": {
+		"minimum": 9,
+		"maximum": 79
+	},
+	"b": {
+		"minimum": 8,
+		"maximum": 78
+	}
+},
+{
+	"a": {
+		"minimum": 14,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 99,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 98,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 59,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 59,
+		"maximum": 64
+	}
+},
+{
+	"a": {
+		"minimum": 22,
+		"maximum": 22
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 70,
+		"maximum": 70
+	},
+	"b": {
+		"minimum": 69,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 63
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 64
+	}
+},
+{
+	"a": {
+		"minimum": 27,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 28,
+		"maximum": 28
+	}
+},
+{
+	"a": {
+		"minimum": 87,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 51,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 21,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 68,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 69,
+		"maximum": 81
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 46
+	},
+	"b": {
+		"minimum": 46,
+		"maximum": 47
+	}
+},
+{
+	"a": {
+		"minimum": 28,
+		"maximum": 62
+	},
+	"b": {
+		"minimum": 63,
+		"maximum": 72
+	}
+},
+{
+	"a": {
+		"minimum": 15,
+		"maximum": 61
+	},
+	"b": {
+		"minimum": 32,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 88
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 85,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 78
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 78
+	}
+},
+{
+	"a": {
+		"minimum": 27,
+		"maximum": 66
+	},
+	"b": {
+		"minimum": 28,
+		"maximum": 65
+	}
+},
+{
+	"a": {
+		"minimum": 11,
+		"maximum": 69
+	},
+	"b": {
+		"minimum": 10,
+		"maximum": 70
+	}
+},
+{
+	"a": {
+		"minimum": 70,
+		"maximum": 76
+	},
+	"b": {
+		"minimum": 31,
+		"maximum": 86
+	}
+},
+{
+	"a": {
+		"minimum": 20,
+		"maximum": 27
+	},
+	"b": {
+		"minimum": 26,
+		"maximum": 27
+	}
+},
+{
+	"a": {
+		"minimum": 42,
+		"maximum": 73
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 43
+	}
+},
+{
+	"a": {
+		"minimum": 41,
+		"maximum": 62
+	},
+	"b": {
+		"minimum": 42,
+		"maximum": 61
+	}
+},
+{
+	"a": {
+		"minimum": 22,
+		"maximum": 50
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 61,
+		"maximum": 79
+	},
+	"b": {
+		"minimum": 79,
+		"maximum": 79
+	}
+},
+{
+	"a": {
+		"minimum": 69,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 69,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 84,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 18,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 17,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 74,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 87,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 14,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 64,
+		"maximum": 75
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 76
+	}
+},
+{
+	"a": {
+		"minimum": 35,
+		"maximum": 35
+	},
+	"b": {
+		"minimum": 34,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 32,
+		"maximum": 39
+	},
+	"b": {
+		"minimum": 36,
+		"maximum": 40
+	}
+},
+{
+	"a": {
+		"minimum": 35,
+		"maximum": 50
+	},
+	"b": {
+		"minimum": 34,
+		"maximum": 49
+	}
+},
+{
+	"a": {
+		"minimum": 9,
+		"maximum": 71
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 72
+	}
+},
+{
+	"a": {
+		"minimum": 62,
+		"maximum": 79
+	},
+	"b": {
+		"minimum": 56,
+		"maximum": 78
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 59,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 42,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 43,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 16,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 17,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 96,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 20,
+		"maximum": 44
+	},
+	"b": {
+		"minimum": 21,
+		"maximum": 43
+	}
+},
+{
+	"a": {
+		"minimum": 31,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 46,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 16,
+		"maximum": 69
+	},
+	"b": {
+		"minimum": 15,
+		"maximum": 63
+	}
+},
+{
+	"a": {
+		"minimum": 96,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 37,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 15,
+		"maximum": 21
+	},
+	"b": {
+		"minimum": 16,
+		"maximum": 55
+	}
+},
+{
+	"a": {
+		"minimum": 42,
+		"maximum": 43
+	},
+	"b": {
+		"minimum": 42,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 37,
+		"maximum": 77
+	},
+	"b": {
+		"minimum": 37,
+		"maximum": 76
+	}
+},
+{
+	"a": {
+		"minimum": 39,
+		"maximum": 43
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 49
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 9
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 9
+	}
+},
+{
+	"a": {
+		"minimum": 26,
+		"maximum": 26
+	},
+	"b": {
+		"minimum": 25,
+		"maximum": 75
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 9,
+		"maximum": 9
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 45
+	}
+},
+{
+	"a": {
+		"minimum": 96,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 13,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 28,
+		"maximum": 58
+	},
+	"b": {
+		"minimum": 27,
+		"maximum": 58
+	}
+},
+{
+	"a": {
+		"minimum": 34,
+		"maximum": 55
+	},
+	"b": {
+		"minimum": 18,
+		"maximum": 55
+	}
+},
+{
+	"a": {
+		"minimum": 34,
+		"maximum": 70
+	},
+	"b": {
+		"minimum": 35,
+		"maximum": 69
+	}
+},
+{
+	"a": {
+		"minimum": 20,
+		"maximum": 80
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 80
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 59,
+		"maximum": 83
+	},
+	"b": {
+		"minimum": 8,
+		"maximum": 59
+	}
+},
+{
+	"a": {
+		"minimum": 9,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 66,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 65,
+		"maximum": 77
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 78,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 15,
+		"maximum": 68
+	},
+	"b": {
+		"minimum": 15,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 48,
+		"maximum": 77
+	},
+	"b": {
+		"minimum": 48,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 69,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 28,
+		"maximum": 70
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 74
+	},
+	"b": {
+		"minimum": 15,
+		"maximum": 75
+	}
+},
+{
+	"a": {
+		"minimum": 25,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 25,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 87,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 70,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 30,
+		"maximum": 32
+	},
+	"b": {
+		"minimum": 31,
+		"maximum": 31
+	}
+},
+{
+	"a": {
+		"minimum": 35,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 18,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 58
+	},
+	"b": {
+		"minimum": 25,
+		"maximum": 78
+	}
+},
+{
+	"a": {
+		"minimum": 46,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 94,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 36,
+		"maximum": 62
+	},
+	"b": {
+		"minimum": 35,
+		"maximum": 63
+	}
+},
+{
+	"a": {
+		"minimum": 68,
+		"maximum": 73
+	},
+	"b": {
+		"minimum": 67,
+		"maximum": 69
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 44
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 44
+	}
+},
+{
+	"a": {
+		"minimum": 13,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 77,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 31,
+		"maximum": 32
+	},
+	"b": {
+		"minimum": 24,
+		"maximum": 31
+	}
+},
+{
+	"a": {
+		"minimum": 44,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 34,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 20,
+		"maximum": 75
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 21
+	}
+},
+{
+	"a": {
+		"minimum": 26,
+		"maximum": 68
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 25
+	}
+},
+{
+	"a": {
+		"minimum": 95,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 69,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 93,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 28,
+		"maximum": 42
+	},
+	"b": {
+		"minimum": 29,
+		"maximum": 29
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 82
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 35,
+		"maximum": 75
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 76
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 15
+	},
+	"b": {
+		"minimum": 8,
+		"maximum": 14
+	}
+},
+{
+	"a": {
+		"minimum": 51,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 77,
+		"maximum": 80
+	},
+	"b": {
+		"minimum": 41,
+		"maximum": 70
+	}
+},
+{
+	"a": {
+		"minimum": 95,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 94,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 57,
+		"maximum": 68
+	},
+	"b": {
+		"minimum": 58,
+		"maximum": 69
+	}
+},
+{
+	"a": {
+		"minimum": 73,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 66,
+		"maximum": 74
+	}
+},
+{
+	"a": {
+		"minimum": 27,
+		"maximum": 45
+	},
+	"b": {
+		"minimum": 46,
+		"maximum": 60
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 16
+	},
+	"b": {
+		"minimum": 13,
+		"maximum": 27
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 82
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 83
+	}
+},
+{
+	"a": {
+		"minimum": 17,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 17,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 16,
+		"maximum": 34
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 70
+	}
+},
+{
+	"a": {
+		"minimum": 25,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 16,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 15,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 20,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 78,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 79,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 82,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 81,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 40
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 19
+	}
+},
+{
+	"a": {
+		"minimum": 97,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 39,
+		"maximum": 70
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 82
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 15
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 11
+	}
+},
+{
+	"a": {
+		"minimum": 17,
+		"maximum": 44
+	},
+	"b": {
+		"minimum": 32,
+		"maximum": 52
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 45
+	},
+	"b": {
+		"minimum": 19,
+		"maximum": 65
+	}
+},
+{
+	"a": {
+		"minimum": 31,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 32,
+		"maximum": 75
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 30,
+		"maximum": 31
+	},
+	"b": {
+		"minimum": 30,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 38,
+		"maximum": 57
+	},
+	"b": {
+		"minimum": 37,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 41,
+		"maximum": 74
+	},
+	"b": {
+		"minimum": 42,
+		"maximum": 42
+	}
+},
+{
+	"a": {
+		"minimum": 81,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 50,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 59,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 83
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 22,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 75
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 56
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 56
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 63
+	},
+	"b": {
+		"minimum": 63,
+		"maximum": 64
+	}
+},
+{
+	"a": {
+		"minimum": 15,
+		"maximum": 62
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 61
+	}
+},
+{
+	"a": {
+		"minimum": 43,
+		"maximum": 88
+	},
+	"b": {
+		"minimum": 42,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 24
+	},
+	"b": {
+		"minimum": 23,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 92,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 28,
+		"maximum": 73
+	},
+	"b": {
+		"minimum": 29,
+		"maximum": 29
+	}
+},
+{
+	"a": {
+		"minimum": 76,
+		"maximum": 76
+	},
+	"b": {
+		"minimum": 27,
+		"maximum": 75
+	}
+},
+{
+	"a": {
+		"minimum": 76,
+		"maximum": 76
+	},
+	"b": {
+		"minimum": 13,
+		"maximum": 77
+	}
+},
+{
+	"a": {
+		"minimum": 32,
+		"maximum": 78
+	},
+	"b": {
+		"minimum": 32,
+		"maximum": 79
+	}
+},
+{
+	"a": {
+		"minimum": 60,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 60,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 64,
+		"maximum": 70
+	},
+	"b": {
+		"minimum": 41,
+		"maximum": 69
+	}
+},
+{
+	"a": {
+		"minimum": 14,
+		"maximum": 59
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 59
+	}
+},
+{
+	"a": {
+		"minimum": 46,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 29,
+		"maximum": 62
+	},
+	"b": {
+		"minimum": 62,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 18,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 36,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 84,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 27,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 16,
+		"maximum": 18
+	},
+	"b": {
+		"minimum": 17,
+		"maximum": 44
+	}
+},
+{
+	"a": {
+		"minimum": 33,
+		"maximum": 72
+	},
+	"b": {
+		"minimum": 53,
+		"maximum": 71
+	}
+},
+{
+	"a": {
+		"minimum": 47,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 27,
+		"maximum": 28
+	}
+},
+{
+	"a": {
+		"minimum": 35,
+		"maximum": 88
+	},
+	"b": {
+		"minimum": 35,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 6
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 3
+	}
+},
+{
+	"a": {
+		"minimum": 84,
+		"maximum": 86
+	},
+	"b": {
+		"minimum": 73,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 5
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 11,
+		"maximum": 66
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 67
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 42
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 48
+	}
+},
+{
+	"a": {
+		"minimum": 28,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 29,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 50
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 49
+	}
+},
+{
+	"a": {
+		"minimum": 37,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 87,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 14,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 97,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 74,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 74,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 25,
+		"maximum": 74
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 73
+	}
+},
+{
+	"a": {
+		"minimum": 47,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 47,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 86
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 33,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 32,
+		"maximum": 34
+	}
+},
+{
+	"a": {
+		"minimum": 50,
+		"maximum": 51
+	},
+	"b": {
+		"minimum": 35,
+		"maximum": 50
+	}
+},
+{
+	"a": {
+		"minimum": 91,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 15,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 41,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 37,
+		"maximum": 45
+	}
+},
+{
+	"a": {
+		"minimum": 53,
+		"maximum": 53
+	},
+	"b": {
+		"minimum": 52,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 33,
+		"maximum": 60
+	},
+	"b": {
+		"minimum": 38,
+		"maximum": 64
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 80
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 56
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 68
+	}
+},
+{
+	"a": {
+		"minimum": 42,
+		"maximum": 64
+	},
+	"b": {
+		"minimum": 43,
+		"maximum": 73
+	}
+},
+{
+	"a": {
+		"minimum": 68,
+		"maximum": 75
+	},
+	"b": {
+		"minimum": 69,
+		"maximum": 69
+	}
+},
+{
+	"a": {
+		"minimum": 36,
+		"maximum": 78
+	},
+	"b": {
+		"minimum": 36,
+		"maximum": 37
+	}
+},
+{
+	"a": {
+		"minimum": 11,
+		"maximum": 63
+	},
+	"b": {
+		"minimum": 10,
+		"maximum": 63
+	}
+},
+{
+	"a": {
+		"minimum": 87,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 33,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 73
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 74
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 2
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 29
+	},
+	"b": {
+		"minimum": 10,
+		"maximum": 41
+	}
+},
+{
+	"a": {
+		"minimum": 95,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 94,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 12
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 12
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 61
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 60
+	}
+},
+{
+	"a": {
+		"minimum": 91,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 79,
+		"maximum": 79
+	}
+},
+{
+	"a": {
+		"minimum": 15,
+		"maximum": 15
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 73
+	}
+},
+{
+	"a": {
+		"minimum": 18,
+		"maximum": 58
+	},
+	"b": {
+		"minimum": 19,
+		"maximum": 58
+	}
+},
+{
+	"a": {
+		"minimum": 14,
+		"maximum": 14
+	},
+	"b": {
+		"minimum": 13,
+		"maximum": 13
+	}
+},
+{
+	"a": {
+		"minimum": 14,
+		"maximum": 71
+	},
+	"b": {
+		"minimum": 70,
+		"maximum": 70
+	}
+},
+{
+	"a": {
+		"minimum": 26,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 25,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 57,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 57,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 30,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 9,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 10,
+		"maximum": 10
+	}
+},
+{
+	"a": {
+		"minimum": 27,
+		"maximum": 83
+	},
+	"b": {
+		"minimum": 78,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 20,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 86
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 86
+	}
+},
+{
+	"a": {
+		"minimum": 9,
+		"maximum": 70
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 10
+	}
+},
+{
+	"a": {
+		"minimum": 9,
+		"maximum": 88
+	},
+	"b": {
+		"minimum": 8,
+		"maximum": 10
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 96,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 30
+	}
+},
+{
+	"a": {
+		"minimum": 64,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 64
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 6
+	}
+},
+{
+	"a": {
+		"minimum": 81,
+		"maximum": 88
+	},
+	"b": {
+		"minimum": 81,
+		"maximum": 81
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 55
+	},
+	"b": {
+		"minimum": 55,
+		"maximum": 57
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 16,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 17,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 58,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 58,
+		"maximum": 86
+	}
+},
+{
+	"a": {
+		"minimum": 14,
+		"maximum": 55
+	},
+	"b": {
+		"minimum": 56,
+		"maximum": 56
+	}
+},
+{
+	"a": {
+		"minimum": 26,
+		"maximum": 27
+	},
+	"b": {
+		"minimum": 26,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 43,
+		"maximum": 55
+	},
+	"b": {
+		"minimum": 54,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 50
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 50
+	}
+},
+{
+	"a": {
+		"minimum": 22,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 24,
+		"maximum": 71
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 3
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 30
+	}
+},
+{
+	"a": {
+		"minimum": 18,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 90,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 16,
+		"maximum": 30
+	},
+	"b": {
+		"minimum": 16,
+		"maximum": 29
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 48
+	},
+	"b": {
+		"minimum": 25,
+		"maximum": 73
+	}
+},
+{
+	"a": {
+		"minimum": 43,
+		"maximum": 68
+	},
+	"b": {
+		"minimum": 76,
+		"maximum": 76
+	}
+},
+{
+	"a": {
+		"minimum": 25,
+		"maximum": 82
+	},
+	"b": {
+		"minimum": 26,
+		"maximum": 26
+	}
+},
+{
+	"a": {
+		"minimum": 9,
+		"maximum": 40
+	},
+	"b": {
+		"minimum": 52,
+		"maximum": 60
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 72
+	},
+	"b": {
+		"minimum": 19,
+		"maximum": 71
+	}
+},
+{
+	"a": {
+		"minimum": 85,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 92,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 73
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 74
+	}
+},
+{
+	"a": {
+		"minimum": 53,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 54,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 16,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 26,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 27,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 33,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 54,
+		"maximum": 62
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 66
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 71
+	}
+},
+{
+	"a": {
+		"minimum": 26,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 25,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 50
+	},
+	"b": {
+		"minimum": 19,
+		"maximum": 49
+	}
+},
+{
+	"a": {
+		"minimum": 16,
+		"maximum": 35
+	},
+	"b": {
+		"minimum": 15,
+		"maximum": 70
+	}
+},
+{
+	"a": {
+		"minimum": 18,
+		"maximum": 73
+	},
+	"b": {
+		"minimum": 19,
+		"maximum": 72
+	}
+},
+{
+	"a": {
+		"minimum": 36,
+		"maximum": 68
+	},
+	"b": {
+		"minimum": 35,
+		"maximum": 69
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 75
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 81
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 50,
+		"maximum": 59
+	},
+	"b": {
+		"minimum": 50,
+		"maximum": 50
+	}
+},
+{
+	"a": {
+		"minimum": 15,
+		"maximum": 15
+	},
+	"b": {
+		"minimum": 15,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 63
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 64
+	}
+},
+{
+	"a": {
+		"minimum": 25,
+		"maximum": 77
+	},
+	"b": {
+		"minimum": 26,
+		"maximum": 77
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 50
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 73,
+		"maximum": 74
+	},
+	"b": {
+		"minimum": 26,
+		"maximum": 74
+	}
+},
+{
+	"a": {
+		"minimum": 71,
+		"maximum": 83
+	},
+	"b": {
+		"minimum": 82,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 56,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 29,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 11,
+		"maximum": 30
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 29
+	}
+},
+{
+	"a": {
+		"minimum": 36,
+		"maximum": 64
+	},
+	"b": {
+		"minimum": 35,
+		"maximum": 64
+	}
+},
+{
+	"a": {
+		"minimum": 56,
+		"maximum": 67
+	},
+	"b": {
+		"minimum": 57,
+		"maximum": 67
+	}
+},
+{
+	"a": {
+		"minimum": 84,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 54,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 54,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 14,
+		"maximum": 68
+	},
+	"b": {
+		"minimum": 67,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 11,
+		"maximum": 11
+	},
+	"b": {
+		"minimum": 10,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 35,
+		"maximum": 37
+	},
+	"b": {
+		"minimum": 30,
+		"maximum": 46
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 51
+	},
+	"b": {
+		"minimum": 47,
+		"maximum": 64
+	}
+},
+{
+	"a": {
+		"minimum": 39,
+		"maximum": 42
+	},
+	"b": {
+		"minimum": 29,
+		"maximum": 43
+	}
+},
+{
+	"a": {
+		"minimum": 53,
+		"maximum": 70
+	},
+	"b": {
+		"minimum": 54,
+		"maximum": 70
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 63
+	},
+	"b": {
+		"minimum": 18,
+		"maximum": 35
+	}
+},
+{
+	"a": {
+		"minimum": 76,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 76,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 21,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 22
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 57
+	},
+	"b": {
+		"minimum": 19,
+		"maximum": 58
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 56
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 56
+	}
+},
+{
+	"a": {
+		"minimum": 46,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 98,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 93,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 50,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 28,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 92,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 71,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 52,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 53,
+		"maximum": 53
+	}
+},
+{
+	"a": {
+		"minimum": 93,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 51
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 51
+	}
+},
+{
+	"a": {
+		"minimum": 37,
+		"maximum": 88
+	},
+	"b": {
+		"minimum": 38,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 48
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 6
+	}
+},
+{
+	"a": {
+		"minimum": 22,
+		"maximum": 49
+	},
+	"b": {
+		"minimum": 21,
+		"maximum": 49
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 75
+	},
+	"b": {
+		"minimum": 18,
+		"maximum": 61
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 60
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 60
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 28
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 19
+	}
+},
+{
+	"a": {
+		"minimum": 55,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 54,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 44,
+		"maximum": 59
+	},
+	"b": {
+		"minimum": 32,
+		"maximum": 63
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 27
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 45
+	}
+},
+{
+	"a": {
+		"minimum": 17,
+		"maximum": 18
+	},
+	"b": {
+		"minimum": 18,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 62,
+		"maximum": 67
+	},
+	"b": {
+		"minimum": 77,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 78,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 79
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 69
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 78
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 78
+	},
+	"b": {
+		"minimum": 8,
+		"maximum": 9
+	}
+},
+{
+	"a": {
+		"minimum": 58,
+		"maximum": 62
+	},
+	"b": {
+		"minimum": 36,
+		"maximum": 57
+	}
+},
+{
+	"a": {
+		"minimum": 54,
+		"maximum": 54
+	},
+	"b": {
+		"minimum": 53,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 50,
+		"maximum": 50
+	},
+	"b": {
+		"minimum": 49,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 18,
+		"maximum": 19
+	}
+},
+{
+	"a": {
+		"minimum": 42,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 41,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 20,
+		"maximum": 21
+	},
+	"b": {
+		"minimum": 21,
+		"maximum": 67
+	}
+},
+{
+	"a": {
+		"minimum": 51,
+		"maximum": 80
+	},
+	"b": {
+		"minimum": 41,
+		"maximum": 52
+	}
+},
+{
+	"a": {
+		"minimum": 21,
+		"maximum": 79
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 79
+	}
+},
+{
+	"a": {
+		"minimum": 30,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 31,
+		"maximum": 83
+	}
+},
+{
+	"a": {
+		"minimum": 69,
+		"maximum": 74
+	},
+	"b": {
+		"minimum": 59,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 32,
+		"maximum": 33
+	},
+	"b": {
+		"minimum": 34,
+		"maximum": 53
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 43
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 67
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 47
+	},
+	"b": {
+		"minimum": 25,
+		"maximum": 68
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 75
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 74
+	}
+},
+{
+	"a": {
+		"minimum": 78,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 46,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 39
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 82
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 81
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 71
+	},
+	"b": {
+		"minimum": 10,
+		"maximum": 83
+	}
+},
+{
+	"a": {
+		"minimum": 22,
+		"maximum": 22
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 71
+	}
+},
+{
+	"a": {
+		"minimum": 24,
+		"maximum": 66
+	},
+	"b": {
+		"minimum": 66,
+		"maximum": 73
+	}
+},
+{
+	"a": {
+		"minimum": 18,
+		"maximum": 77
+	},
+	"b": {
+		"minimum": 18,
+		"maximum": 79
+	}
+},
+{
+	"a": {
+		"minimum": 57,
+		"maximum": 57
+	},
+	"b": {
+		"minimum": 58,
+		"maximum": 58
+	}
+},
+{
+	"a": {
+		"minimum": 66,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 66,
+		"maximum": 86
+	}
+},
+{
+	"a": {
+		"minimum": 26,
+		"maximum": 26
+	},
+	"b": {
+		"minimum": 26,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 44,
+		"maximum": 48
+	},
+	"b": {
+		"minimum": 43,
+		"maximum": 49
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 21
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 68
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 99,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 91,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 31,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 6
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 8,
+		"maximum": 49
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 33,
+		"maximum": 42
+	},
+	"b": {
+		"minimum": 34,
+		"maximum": 41
+	}
+},
+{
+	"a": {
+		"minimum": 79,
+		"maximum": 80
+	},
+	"b": {
+		"minimum": 78,
+		"maximum": 80
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 99,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 66,
+		"maximum": 66
+	},
+	"b": {
+		"minimum": 53,
+		"maximum": 66
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 39,
+		"maximum": 39
+	},
+	"b": {
+		"minimum": 40,
+		"maximum": 62
+	}
+},
+{
+	"a": {
+		"minimum": 29,
+		"maximum": 71
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 83
+	}
+},
+{
+	"a": {
+		"minimum": 24,
+		"maximum": 59
+	},
+	"b": {
+		"minimum": 24,
+		"maximum": 57
+	}
+},
+{
+	"a": {
+		"minimum": 81,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 42,
+		"maximum": 81
+	}
+},
+{
+	"a": {
+		"minimum": 44,
+		"maximum": 45
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 44
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 97,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 80
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 47
+	}
+},
+{
+	"a": {
+		"minimum": 14,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 81
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 56
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 32
+	}
+},
+{
+	"a": {
+		"minimum": 73,
+		"maximum": 83
+	},
+	"b": {
+		"minimum": 72,
+		"maximum": 72
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 26
+	},
+	"b": {
+		"minimum": 26,
+		"maximum": 27
+	}
+},
+{
+	"a": {
+		"minimum": 92,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 58,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 42,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 22,
+		"maximum": 32
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 33
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 74
+	},
+	"b": {
+		"minimum": 52,
+		"maximum": 74
+	}
+},
+{
+	"a": {
+		"minimum": 40,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 40,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 6
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 7
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 94,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 84,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 25,
+		"maximum": 73
+	},
+	"b": {
+		"minimum": 29,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 37
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 4
+	}
+},
+{
+	"a": {
+		"minimum": 67,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 40,
+		"maximum": 65
+	}
+},
+{
+	"a": {
+		"minimum": 28,
+		"maximum": 79
+	},
+	"b": {
+		"minimum": 27,
+		"maximum": 63
+	}
+},
+{
+	"a": {
+		"minimum": 15,
+		"maximum": 57
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 56
+	}
+},
+{
+	"a": {
+		"minimum": 18,
+		"maximum": 51
+	},
+	"b": {
+		"minimum": 19,
+		"maximum": 51
+	}
+},
+{
+	"a": {
+		"minimum": 50,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 36,
+		"maximum": 50
+	}
+},
+{
+	"a": {
+		"minimum": 29,
+		"maximum": 79
+	},
+	"b": {
+		"minimum": 30,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 27,
+		"maximum": 27
+	},
+	"b": {
+		"minimum": 24,
+		"maximum": 28
+	}
+},
+{
+	"a": {
+		"minimum": 33,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 32,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 22,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 21,
+		"maximum": 81
+	}
+},
+{
+	"a": {
+		"minimum": 51,
+		"maximum": 79
+	},
+	"b": {
+		"minimum": 78,
+		"maximum": 79
+	}
+},
+{
+	"a": {
+		"minimum": 20,
+		"maximum": 68
+	},
+	"b": {
+		"minimum": 67,
+		"maximum": 79
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 43,
+		"maximum": 44
+	},
+	"b": {
+		"minimum": 42,
+		"maximum": 45
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 79
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 80
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 57,
+		"maximum": 60
+	},
+	"b": {
+		"minimum": 26,
+		"maximum": 57
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 86
+	},
+	"b": {
+		"minimum": 23,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 28,
+		"maximum": 82
+	},
+	"b": {
+		"minimum": 32,
+		"maximum": 83
+	}
+},
+{
+	"a": {
+		"minimum": 28,
+		"maximum": 53
+	},
+	"b": {
+		"minimum": 29,
+		"maximum": 29
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 59,
+		"maximum": 69
+	},
+	"b": {
+		"minimum": 58,
+		"maximum": 77
+	}
+},
+{
+	"a": {
+		"minimum": 40,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 86
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 30
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 29
+	}
+},
+{
+	"a": {
+		"minimum": 98,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 68,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 98,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 43,
+		"maximum": 88
+	},
+	"b": {
+		"minimum": 42,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 14
+	},
+	"b": {
+		"minimum": 8,
+		"maximum": 14
+	}
+},
+{
+	"a": {
+		"minimum": 50,
+		"maximum": 52
+	},
+	"b": {
+		"minimum": 46,
+		"maximum": 68
+	}
+},
+{
+	"a": {
+		"minimum": 29,
+		"maximum": 56
+	},
+	"b": {
+		"minimum": 30,
+		"maximum": 55
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 93,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 57,
+		"maximum": 88
+	},
+	"b": {
+		"minimum": 56,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 99,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 75,
+		"maximum": 76
+	}
+},
+{
+	"a": {
+		"minimum": 24,
+		"maximum": 43
+	},
+	"b": {
+		"minimum": 24,
+		"maximum": 51
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 9
+	}
+},
+{
+	"a": {
+		"minimum": 30,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 21,
+		"maximum": 30
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 79,
+		"maximum": 80
+	},
+	"b": {
+		"minimum": 48,
+		"maximum": 79
+	}
+},
+{
+	"a": {
+		"minimum": 71,
+		"maximum": 73
+	},
+	"b": {
+		"minimum": 68,
+		"maximum": 72
+	}
+},
+{
+	"a": {
+		"minimum": 33,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 33,
+		"maximum": 53
+	}
+},
+{
+	"a": {
+		"minimum": 20,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 19,
+		"maximum": 21
+	}
+},
+{
+	"a": {
+		"minimum": 48,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 41
+	}
+},
+{
+	"a": {
+		"minimum": 81,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 80,
+		"maximum": 86
+	}
+},
+{
+	"a": {
+		"minimum": 71,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 70,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 7
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 17,
+		"maximum": 17
+	},
+	"b": {
+		"minimum": 16,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 12
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 1
+	}
+},
+{
+	"a": {
+		"minimum": 17,
+		"maximum": 30
+	},
+	"b": {
+		"minimum": 30,
+		"maximum": 31
+	}
+},
+{
+	"a": {
+		"minimum": 66,
+		"maximum": 66
+	},
+	"b": {
+		"minimum": 65,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 15,
+		"maximum": 66
+	},
+	"b": {
+		"minimum": 16,
+		"maximum": 16
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 80
+	},
+	"b": {
+		"minimum": 81,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 28,
+		"maximum": 69
+	},
+	"b": {
+		"minimum": 17,
+		"maximum": 77
+	}
+},
+{
+	"a": {
+		"minimum": 37,
+		"maximum": 37
+	},
+	"b": {
+		"minimum": 37,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 47,
+		"maximum": 80
+	},
+	"b": {
+		"minimum": 46,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 48,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 47,
+		"maximum": 77
+	}
+},
+{
+	"a": {
+		"minimum": 56,
+		"maximum": 66
+	},
+	"b": {
+		"minimum": 56,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 51,
+		"maximum": 51
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 52
+	}
+},
+{
+	"a": {
+		"minimum": 11,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 24,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 62,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 63,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 78,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 59
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 35,
+		"maximum": 61
+	},
+	"b": {
+		"minimum": 36,
+		"maximum": 61
+	}
+},
+{
+	"a": {
+		"minimum": 36,
+		"maximum": 78
+	},
+	"b": {
+		"minimum": 36,
+		"maximum": 79
+	}
+},
+{
+	"a": {
+		"minimum": 61,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 62
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 40,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 52,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 23
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 22
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 51
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 6
+	}
+},
+{
+	"a": {
+		"minimum": 51,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 50,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 16,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 94,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 28,
+		"maximum": 58
+	},
+	"b": {
+		"minimum": 42,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 83,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 19,
+		"maximum": 81
+	}
+},
+{
+	"a": {
+		"minimum": 28,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 29,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 34,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 33,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 10,
+		"maximum": 54
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 80
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 79
+	}
+},
+{
+	"a": {
+		"minimum": 56,
+		"maximum": 57
+	},
+	"b": {
+		"minimum": 56,
+		"maximum": 58
+	}
+},
+{
+	"a": {
+		"minimum": 52,
+		"maximum": 75
+	},
+	"b": {
+		"minimum": 51,
+		"maximum": 66
+	}
+},
+{
+	"a": {
+		"minimum": 69,
+		"maximum": 78
+	},
+	"b": {
+		"minimum": 70,
+		"maximum": 71
+	}
+},
+{
+	"a": {
+		"minimum": 26,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 26,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 13,
+		"maximum": 14
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 51
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 61,
+		"maximum": 62
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 62
+	}
+},
+{
+	"a": {
+		"minimum": 26,
+		"maximum": 80
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 81
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 75
+	},
+	"b": {
+		"minimum": 74,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 86,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 66
+	}
+},
+{
+	"a": {
+		"minimum": 57,
+		"maximum": 61
+	},
+	"b": {
+		"minimum": 15,
+		"maximum": 63
+	}
+},
+{
+	"a": {
+		"minimum": 78,
+		"maximum": 86
+	},
+	"b": {
+		"minimum": 45,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 42,
+		"maximum": 42
+	},
+	"b": {
+		"minimum": 43,
+		"maximum": 64
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 80,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 79,
+		"maximum": 79
+	}
+},
+{
+	"a": {
+		"minimum": 20,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 20
+	}
+},
+{
+	"a": {
+		"minimum": 89,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 58,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 58,
+		"maximum": 58
+	}
+},
+{
+	"a": {
+		"minimum": 17,
+		"maximum": 54
+	},
+	"b": {
+		"minimum": 17,
+		"maximum": 54
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 70
+	},
+	"b": {
+		"minimum": 16,
+		"maximum": 76
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 8
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 25,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 52,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 14,
+		"maximum": 86
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 15
+	}
+},
+{
+	"a": {
+		"minimum": 52,
+		"maximum": 69
+	},
+	"b": {
+		"minimum": 26,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 18
+	},
+	"b": {
+		"minimum": 16,
+		"maximum": 31
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 73
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 74
+	}
+},
+{
+	"a": {
+		"minimum": 53,
+		"maximum": 53
+	},
+	"b": {
+		"minimum": 53,
+		"maximum": 74
+	}
+},
+{
+	"a": {
+		"minimum": 22,
+		"maximum": 55
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 56
+	}
+},
+{
+	"a": {
+		"minimum": 13,
+		"maximum": 58
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 13
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 55
+	},
+	"b": {
+		"minimum": 51,
+		"maximum": 68
+	}
+},
+{
+	"a": {
+		"minimum": 27,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 28,
+		"maximum": 28
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 58
+	},
+	"b": {
+		"minimum": 10,
+		"maximum": 58
+	}
+},
+{
+	"a": {
+		"minimum": 40,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 47,
+		"maximum": 75
+	}
+},
+{
+	"a": {
+		"minimum": 63,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 62,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 76,
+		"maximum": 78
+	},
+	"b": {
+		"minimum": 69,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 24,
+		"maximum": 76
+	},
+	"b": {
+		"minimum": 64,
+		"maximum": 75
+	}
+},
+{
+	"a": {
+		"minimum": 70,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 65,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 88
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 73
+	}
+},
+{
+	"a": {
+		"minimum": 34,
+		"maximum": 79
+	},
+	"b": {
+		"minimum": 35,
+		"maximum": 78
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 27
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 26
+	}
+},
+{
+	"a": {
+		"minimum": 11,
+		"maximum": 13
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 31
+	}
+},
+{
+	"a": {
+		"minimum": 29,
+		"maximum": 29
+	},
+	"b": {
+		"minimum": 29,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 46,
+		"maximum": 75
+	},
+	"b": {
+		"minimum": 19,
+		"maximum": 83
+	}
+},
+{
+	"a": {
+		"minimum": 11,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 60
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 83
+	}
+},
+{
+	"a": {
+		"minimum": 56,
+		"maximum": 79
+	},
+	"b": {
+		"minimum": 55,
+		"maximum": 80
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 54
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 46
+	}
+},
+{
+	"a": {
+		"minimum": 13,
+		"maximum": 24
+	},
+	"b": {
+		"minimum": 95,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 24,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 27,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 60,
+		"maximum": 76
+	},
+	"b": {
+		"minimum": 76,
+		"maximum": 76
+	}
+},
+{
+	"a": {
+		"minimum": 27,
+		"maximum": 70
+	},
+	"b": {
+		"minimum": 27,
+		"maximum": 28
+	}
+},
+{
+	"a": {
+		"minimum": 47,
+		"maximum": 48
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 47
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 42
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 31
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 69
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 94,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 25,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 81
+	}
+},
+{
+	"a": {
+		"minimum": 9,
+		"maximum": 71
+	},
+	"b": {
+		"minimum": 10,
+		"maximum": 83
+	}
+},
+{
+	"a": {
+		"minimum": 37,
+		"maximum": 88
+	},
+	"b": {
+		"minimum": 37,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 8
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 94,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 59,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 76,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 63
+	},
+	"b": {
+		"minimum": 28,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 74,
+		"maximum": 75
+	},
+	"b": {
+		"minimum": 75,
+		"maximum": 86
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 24
+	},
+	"b": {
+		"minimum": 23,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 1
+	}
+},
+{
+	"a": {
+		"minimum": 21,
+		"maximum": 61
+	},
+	"b": {
+		"minimum": 60,
+		"maximum": 60
+	}
+},
+{
+	"a": {
+		"minimum": 84,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 34,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 63,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 60,
+		"maximum": 80
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 4
+	}
+},
+{
+	"a": {
+		"minimum": 88,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 18,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 96,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 64
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 64
+	}
+},
+{
+	"a": {
+		"minimum": 58,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 40,
+		"maximum": 74
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 65,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 98,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 68,
+		"maximum": 74
+	}
+},
+{
+	"a": {
+		"minimum": 65,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 89,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 10,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 71
+	},
+	"b": {
+		"minimum": 80,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 10
+	},
+	"b": {
+		"minimum": 10,
+		"maximum": 27
+	}
+},
+{
+	"a": {
+		"minimum": 60,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 95,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 28,
+		"maximum": 80
+	},
+	"b": {
+		"minimum": 79,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 9,
+		"maximum": 80
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 80
+	}
+},
+{
+	"a": {
+		"minimum": 69,
+		"maximum": 72
+	},
+	"b": {
+		"minimum": 70,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 26,
+		"maximum": 26
+	},
+	"b": {
+		"minimum": 27,
+		"maximum": 27
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 97,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 32,
+		"maximum": 75
+	},
+	"b": {
+		"minimum": 33,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 11,
+		"maximum": 59
+	},
+	"b": {
+		"minimum": 10,
+		"maximum": 60
+	}
+},
+{
+	"a": {
+		"minimum": 38,
+		"maximum": 42
+	},
+	"b": {
+		"minimum": 27,
+		"maximum": 42
+	}
+},
+{
+	"a": {
+		"minimum": 18,
+		"maximum": 49
+	},
+	"b": {
+		"minimum": 18,
+		"maximum": 42
+	}
+},
+{
+	"a": {
+		"minimum": 26,
+		"maximum": 72
+	},
+	"b": {
+		"minimum": 25,
+		"maximum": 26
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 35
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 11
+	}
+},
+{
+	"a": {
+		"minimum": 32,
+		"maximum": 33
+	},
+	"b": {
+		"minimum": 32,
+		"maximum": 33
+	}
+},
+{
+	"a": {
+		"minimum": 50,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 51
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 20
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 51
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 71
+	}
+},
+{
+	"a": {
+		"minimum": 35,
+		"maximum": 82
+	},
+	"b": {
+		"minimum": 28,
+		"maximum": 33
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 16
+	},
+	"b": {
+		"minimum": 15,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 28,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 85,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 27,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 66,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 76,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 68,
+		"maximum": 75
+	}
+},
+{
+	"a": {
+		"minimum": 15,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 16
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 8,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 9,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 8,
+		"maximum": 9
+	}
+},
+{
+	"a": {
+		"minimum": 14,
+		"maximum": 14
+	},
+	"b": {
+		"minimum": 15,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 81,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 83
+	}
+},
+{
+	"a": {
+		"minimum": 9,
+		"maximum": 44
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 8
+	}
+},
+{
+	"a": {
+		"minimum": 57,
+		"maximum": 57
+	},
+	"b": {
+		"minimum": 51,
+		"maximum": 58
+	}
+},
+{
+	"a": {
+		"minimum": 27,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 26,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 66
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 66
+	}
+},
+{
+	"a": {
+		"minimum": 52,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 53,
+		"maximum": 86
+	}
+},
+{
+	"a": {
+		"minimum": 61,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 62,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 30,
+		"maximum": 31
+	},
+	"b": {
+		"minimum": 31,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 52,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 53,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 41,
+		"maximum": 43
+	},
+	"b": {
+		"minimum": 42,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 65,
+		"maximum": 65
+	},
+	"b": {
+		"minimum": 47,
+		"maximum": 67
+	}
+},
+{
+	"a": {
+		"minimum": 13,
+		"maximum": 13
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 26
+	},
+	"b": {
+		"minimum": 23,
+		"maximum": 27
+	}
+},
+{
+	"a": {
+		"minimum": 83,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 49,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 11,
+		"maximum": 16
+	},
+	"b": {
+		"minimum": 10,
+		"maximum": 60
+	}
+},
+{
+	"a": {
+		"minimum": 16,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 83
+	}
+},
+{
+	"a": {
+		"minimum": 85,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 32,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 51,
+		"maximum": 59
+	},
+	"b": {
+		"minimum": 59,
+		"maximum": 86
+	}
+},
+{
+	"a": {
+		"minimum": 18,
+		"maximum": 59
+	},
+	"b": {
+		"minimum": 19,
+		"maximum": 61
+	}
+},
+{
+	"a": {
+		"minimum": 92,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 18,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 97,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 21,
+		"maximum": 21
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 22
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 25
+	},
+	"b": {
+		"minimum": 24,
+		"maximum": 24
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 73
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 72
+	}
+},
+{
+	"a": {
+		"minimum": 43,
+		"maximum": 44
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 44
+	}
+},
+{
+	"a": {
+		"minimum": 74,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 75,
+		"maximum": 81
+	}
+},
+{
+	"a": {
+		"minimum": 72,
+		"maximum": 78
+	},
+	"b": {
+		"minimum": 72,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 40,
+		"maximum": 88
+	},
+	"b": {
+		"minimum": 40,
+		"maximum": 48
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 8
+	}
+},
+{
+	"a": {
+		"minimum": 39,
+		"maximum": 52
+	},
+	"b": {
+		"minimum": 40,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 20,
+		"maximum": 52
+	},
+	"b": {
+		"minimum": 21,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 11,
+		"maximum": 88
+	},
+	"b": {
+		"minimum": 44,
+		"maximum": 76
+	}
+},
+{
+	"a": {
+		"minimum": 90,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 32,
+		"maximum": 39
+	}
+},
+{
+	"a": {
+		"minimum": 35,
+		"maximum": 86
+	},
+	"b": {
+		"minimum": 36,
+		"maximum": 36
+	}
+},
+{
+	"a": {
+		"minimum": 78,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 67,
+		"maximum": 79
+	}
+},
+{
+	"a": {
+		"minimum": 11,
+		"maximum": 22
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 72
+	}
+},
+{
+	"a": {
+		"minimum": 41,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 94,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 90,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 52,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 83
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 83
+	}
+},
+{
+	"a": {
+		"minimum": 57,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 34,
+		"maximum": 42
+	},
+	"b": {
+		"minimum": 23,
+		"maximum": 43
+	}
+},
+{
+	"a": {
+		"minimum": 68,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 69,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 24,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 23,
+		"maximum": 74
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 23
+	},
+	"b": {
+		"minimum": 24,
+		"maximum": 58
+	}
+},
+{
+	"a": {
+		"minimum": 46,
+		"maximum": 74
+	},
+	"b": {
+		"minimum": 46,
+		"maximum": 73
+	}
+},
+{
+	"a": {
+		"minimum": 17,
+		"maximum": 32
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 32
+	}
+},
+{
+	"a": {
+		"minimum": 35,
+		"maximum": 82
+	},
+	"b": {
+		"minimum": 34,
+		"maximum": 74
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 33,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 38,
+		"maximum": 80
+	}
+},
+{
+	"a": {
+		"minimum": 48,
+		"maximum": 62
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 89,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 81,
+		"maximum": 82
+	},
+	"b": {
+		"minimum": 40,
+		"maximum": 81
+	}
+},
+{
+	"a": {
+		"minimum": 14,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 13,
+		"maximum": 15
+	}
+},
+{
+	"a": {
+		"minimum": 58,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 59,
+		"maximum": 67
+	}
+},
+{
+	"a": {
+		"minimum": 30,
+		"maximum": 72
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 72
+	}
+},
+{
+	"a": {
+		"minimum": 17,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 88,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 22,
+		"maximum": 66
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 66
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 32
+	},
+	"b": {
+		"minimum": 32,
+		"maximum": 63
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 80
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 80
+	}
+},
+{
+	"a": {
+		"minimum": 35,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 91,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 65,
+		"maximum": 70
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 79
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 77
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 77
+	}
+},
+{
+	"a": {
+		"minimum": 75,
+		"maximum": 76
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 76
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 88
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 37,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 90,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 9,
+		"maximum": 79
+	},
+	"b": {
+		"minimum": 8,
+		"maximum": 78
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 3
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 52,
+		"maximum": 66
+	},
+	"b": {
+		"minimum": 53,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 37,
+		"maximum": 49
+	},
+	"b": {
+		"minimum": 49,
+		"maximum": 55
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 86
+	}
+},
+{
+	"a": {
+		"minimum": 55,
+		"maximum": 67
+	},
+	"b": {
+		"minimum": 54,
+		"maximum": 56
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 51,
+		"maximum": 71
+	},
+	"b": {
+		"minimum": 52,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 9
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 57
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 5
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 70
+	},
+	"b": {
+		"minimum": 27,
+		"maximum": 69
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 18,
+		"maximum": 18
+	},
+	"b": {
+		"minimum": 17,
+		"maximum": 19
+	}
+},
+{
+	"a": {
+		"minimum": 13,
+		"maximum": 14
+	},
+	"b": {
+		"minimum": 13,
+		"maximum": 86
+	}
+},
+{
+	"a": {
+		"minimum": 86,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 23,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 21,
+		"maximum": 47
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 47
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 31
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 5
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 55
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 56
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 42
+	},
+	"b": {
+		"minimum": 27,
+		"maximum": 27
+	}
+},
+{
+	"a": {
+		"minimum": 40,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 45,
+		"maximum": 76
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 13,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 68
+	},
+	"b": {
+		"minimum": 32,
+		"maximum": 67
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 38,
+		"maximum": 77
+	},
+	"b": {
+		"minimum": 37,
+		"maximum": 77
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 10
+	},
+	"b": {
+		"minimum": 10,
+		"maximum": 63
+	}
+},
+{
+	"a": {
+		"minimum": 64,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 63,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 26,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 27,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 75
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 49
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 65
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 3
+	}
+},
+{
+	"a": {
+		"minimum": 26,
+		"maximum": 66
+	},
+	"b": {
+		"minimum": 66,
+		"maximum": 66
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 61
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 48
+	}
+},
+{
+	"a": {
+		"minimum": 34,
+		"maximum": 36
+	},
+	"b": {
+		"minimum": 33,
+		"maximum": 35
+	}
+},
+{
+	"a": {
+		"minimum": 70,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 93,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 31,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 32,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 33,
+		"maximum": 34
+	},
+	"b": {
+		"minimum": 33,
+		"maximum": 58
+	}
+},
+{
+	"a": {
+		"minimum": 72,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 72,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 9,
+		"maximum": 64
+	},
+	"b": {
+		"minimum": 58,
+		"maximum": 86
+	}
+},
+{
+	"a": {
+		"minimum": 55,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 85,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 90,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 68,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 13,
+		"maximum": 15
+	},
+	"b": {
+		"minimum": 15,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 66,
+		"maximum": 67
+	},
+	"b": {
+		"minimum": 66,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 82
+	},
+	"b": {
+		"minimum": 15,
+		"maximum": 81
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 46
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 31
+	}
+},
+{
+	"a": {
+		"minimum": 24,
+		"maximum": 75
+	},
+	"b": {
+		"minimum": 25,
+		"maximum": 75
+	}
+},
+{
+	"a": {
+		"minimum": 62,
+		"maximum": 80
+	},
+	"b": {
+		"minimum": 66,
+		"maximum": 81
+	}
+},
+{
+	"a": {
+		"minimum": 34,
+		"maximum": 69
+	},
+	"b": {
+		"minimum": 34,
+		"maximum": 70
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 76
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 3
+	}
+},
+{
+	"a": {
+		"minimum": 20,
+		"maximum": 72
+	},
+	"b": {
+		"minimum": 71,
+		"maximum": 72
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 50
+	},
+	"b": {
+		"minimum": 37,
+		"maximum": 38
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 18
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 18
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 79
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 20,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 83,
+		"maximum": 83
+	},
+	"b": {
+		"minimum": 61,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 39,
+		"maximum": 40
+	},
+	"b": {
+		"minimum": 40,
+		"maximum": 40
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 48,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 42,
+		"maximum": 79
+	}
+},
+{
+	"a": {
+		"minimum": 22,
+		"maximum": 22
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 10
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 66,
+		"maximum": 77
+	},
+	"b": {
+		"minimum": 66,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 47,
+		"maximum": 52
+	},
+	"b": {
+		"minimum": 40,
+		"maximum": 52
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 19
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 26
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 64
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 63
+	}
+},
+{
+	"a": {
+		"minimum": 44,
+		"maximum": 82
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 45
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 1
+	}
+},
+{
+	"a": {
+		"minimum": 13,
+		"maximum": 86
+	},
+	"b": {
+		"minimum": 43,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 14,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 13,
+		"maximum": 50
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 62
+	}
+},
+{
+	"a": {
+		"minimum": 90,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 33
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 17
+	}
+},
+{
+	"a": {
+		"minimum": 35,
+		"maximum": 62
+	},
+	"b": {
+		"minimum": 36,
+		"maximum": 63
+	}
+},
+{
+	"a": {
+		"minimum": 37,
+		"maximum": 48
+	},
+	"b": {
+		"minimum": 17,
+		"maximum": 56
+	}
+},
+{
+	"a": {
+		"minimum": 69,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 69,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 74,
+		"maximum": 75
+	},
+	"b": {
+		"minimum": 29,
+		"maximum": 74
+	}
+},
+{
+	"a": {
+		"minimum": 55,
+		"maximum": 72
+	},
+	"b": {
+		"minimum": 55,
+		"maximum": 72
+	}
+},
+{
+	"a": {
+		"minimum": 28,
+		"maximum": 73
+	},
+	"b": {
+		"minimum": 28,
+		"maximum": 55
+	}
+},
+{
+	"a": {
+		"minimum": 22,
+		"maximum": 77
+	},
+	"b": {
+		"minimum": 22,
+		"maximum": 76
+	}
+},
+{
+	"a": {
+		"minimum": 77,
+		"maximum": 83
+	},
+	"b": {
+		"minimum": 67,
+		"maximum": 83
+	}
+},
+{
+	"a": {
+		"minimum": 54,
+		"maximum": 72
+	},
+	"b": {
+		"minimum": 53,
+		"maximum": 53
+	}
+},
+{
+	"a": {
+		"minimum": 51,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 50,
+		"maximum": 51
+	}
+},
+{
+	"a": {
+		"minimum": 85,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 82,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 87,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 16,
+		"maximum": 82
+	},
+	"b": {
+		"minimum": 23,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 56
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 57
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 65
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 63
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 59,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 76,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 21,
+		"maximum": 77
+	}
+},
+{
+	"a": {
+		"minimum": 89,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 10,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 13,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 96,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 54,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 84,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 80,
+		"maximum": 80
+	},
+	"b": {
+		"minimum": 71,
+		"maximum": 81
+	}
+},
+{
+	"a": {
+		"minimum": 9,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 78
+	}
+},
+{
+	"a": {
+		"minimum": 11,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 10,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 61
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 80,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 81,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 84,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 83,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 71,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 71,
+		"maximum": 86
+	}
+},
+{
+	"a": {
+		"minimum": 37,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 36,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 17,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 71,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 63,
+		"maximum": 63
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 63
+	}
+},
+{
+	"a": {
+		"minimum": 13,
+		"maximum": 70
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 69
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 9
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 8
+	}
+},
+{
+	"a": {
+		"minimum": 60,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 60,
+		"maximum": 61
+	}
+},
+{
+	"a": {
+		"minimum": 85,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 85,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 46,
+		"maximum": 79
+	},
+	"b": {
+		"minimum": 45,
+		"maximum": 79
+	}
+},
+{
+	"a": {
+		"minimum": 69,
+		"maximum": 74
+	},
+	"b": {
+		"minimum": 68,
+		"maximum": 74
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 83,
+		"maximum": 88
+	},
+	"b": {
+		"minimum": 86,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 54,
+		"maximum": 54
+	},
+	"b": {
+		"minimum": 54,
+		"maximum": 76
+	}
+},
+{
+	"a": {
+		"minimum": 34,
+		"maximum": 36
+	},
+	"b": {
+		"minimum": 33,
+		"maximum": 34
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 73
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 54,
+		"maximum": 60
+	},
+	"b": {
+		"minimum": 53,
+		"maximum": 61
+	}
+},
+{
+	"a": {
+		"minimum": 66,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 66,
+		"maximum": 66
+	}
+},
+{
+	"a": {
+		"minimum": 21,
+		"maximum": 82
+	},
+	"b": {
+		"minimum": 82,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 3
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 35
+	}
+},
+{
+	"a": {
+		"minimum": 76,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 75,
+		"maximum": 75
+	}
+},
+{
+	"a": {
+		"minimum": 24,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 85,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 51,
+		"maximum": 51
+	},
+	"b": {
+		"minimum": 18,
+		"maximum": 50
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 22
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 21
+	}
+},
+{
+	"a": {
+		"minimum": 76,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 77,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 84,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 88,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 48,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 25,
+		"maximum": 57
+	},
+	"b": {
+		"minimum": 31,
+		"maximum": 74
+	}
+},
+{
+	"a": {
+		"minimum": 38,
+		"maximum": 38
+	},
+	"b": {
+		"minimum": 38,
+		"maximum": 52
+	}
+},
+{
+	"a": {
+		"minimum": 86,
+		"maximum": 86
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 15,
+		"maximum": 51
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 51
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 51
+	},
+	"b": {
+		"minimum": 13,
+		"maximum": 50
+	}
+},
+{
+	"a": {
+		"minimum": 14,
+		"maximum": 21
+	},
+	"b": {
+		"minimum": 21,
+		"maximum": 22
+	}
+},
+{
+	"a": {
+		"minimum": 20,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 19,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 75,
+		"maximum": 82
+	},
+	"b": {
+		"minimum": 75,
+		"maximum": 75
+	}
+},
+{
+	"a": {
+		"minimum": 55,
+		"maximum": 68
+	},
+	"b": {
+		"minimum": 56,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 62,
+		"maximum": 66
+	},
+	"b": {
+		"minimum": 46,
+		"maximum": 66
+	}
+},
+{
+	"a": {
+		"minimum": 46,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 92,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 80
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 81
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 64
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 3
+	}
+},
+{
+	"a": {
+		"minimum": 16,
+		"maximum": 47
+	},
+	"b": {
+		"minimum": 17,
+		"maximum": 47
+	}
+},
+{
+	"a": {
+		"minimum": 19,
+		"maximum": 48
+	},
+	"b": {
+		"minimum": 18,
+		"maximum": 64
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 7
+	}
+},
+{
+	"a": {
+		"minimum": 92,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 73,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 37,
+		"maximum": 52
+	},
+	"b": {
+		"minimum": 21,
+		"maximum": 53
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 43
+	},
+	"b": {
+		"minimum": 42,
+		"maximum": 42
+	}
+},
+{
+	"a": {
+		"minimum": 74,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 23,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 24,
+		"maximum": 48
+	},
+	"b": {
+		"minimum": 54,
+		"maximum": 58
+	}
+},
+{
+	"a": {
+		"minimum": 44,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 93,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 16,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 16,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 8,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 90,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 28,
+		"maximum": 86
+	},
+	"b": {
+		"minimum": 10,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 13,
+		"maximum": 44
+	},
+	"b": {
+		"minimum": 13,
+		"maximum": 45
+	}
+},
+{
+	"a": {
+		"minimum": 21,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 26,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 49,
+		"maximum": 75
+	},
+	"b": {
+		"minimum": 49,
+		"maximum": 75
+	}
+},
+{
+	"a": {
+		"minimum": 50,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 50,
+		"maximum": 50
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 6
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 5
+	}
+},
+{
+	"a": {
+		"minimum": 15,
+		"maximum": 40
+	},
+	"b": {
+		"minimum": 40,
+		"maximum": 41
+	}
+},
+{
+	"a": {
+		"minimum": 14,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 13,
+		"maximum": 67
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 67
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 92
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 79
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 78
+	}
+},
+{
+	"a": {
+		"minimum": 90,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 24,
+		"maximum": 24
+	},
+	"b": {
+		"minimum": 14,
+		"maximum": 24
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 30,
+		"maximum": 69
+	},
+	"b": {
+		"minimum": 30,
+		"maximum": 30
+	}
+},
+{
+	"a": {
+		"minimum": 30,
+		"maximum": 46
+	},
+	"b": {
+		"minimum": 31,
+		"maximum": 31
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 86
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 46,
+		"maximum": 76
+	},
+	"b": {
+		"minimum": 46,
+		"maximum": 80
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 13,
+		"maximum": 83
+	}
+},
+{
+	"a": {
+		"minimum": 91,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 32,
+		"maximum": 40
+	},
+	"b": {
+		"minimum": 33,
+		"maximum": 33
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 46,
+		"maximum": 46
+	},
+	"b": {
+		"minimum": 47,
+		"maximum": 52
+	}
+},
+{
+	"a": {
+		"minimum": 56,
+		"maximum": 56
+	},
+	"b": {
+		"minimum": 56,
+		"maximum": 56
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 12
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 72
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 5
+	},
+	"b": {
+		"minimum": 4,
+		"maximum": 60
+	}
+},
+{
+	"a": {
+		"minimum": 9,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 83,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 30,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 30,
+		"maximum": 94
+	}
+},
+{
+	"a": {
+		"minimum": 35,
+		"maximum": 41
+	},
+	"b": {
+		"minimum": 41,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 54,
+		"maximum": 54
+	},
+	"b": {
+		"minimum": 53,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 76,
+		"maximum": 77
+	},
+	"b": {
+		"minimum": 62,
+		"maximum": 76
+	}
+},
+{
+	"a": {
+		"minimum": 43,
+		"maximum": 62
+	},
+	"b": {
+		"minimum": 42,
+		"maximum": 62
+	}
+},
+{
+	"a": {
+		"minimum": 66,
+		"maximum": 79
+	},
+	"b": {
+		"minimum": 51,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 67,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 27,
+		"maximum": 67
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 43
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 57
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 67
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 53,
+		"maximum": 88
+	},
+	"b": {
+		"minimum": 54,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 64,
+		"maximum": 74
+	},
+	"b": {
+		"minimum": 72,
+		"maximum": 72
+	}
+},
+{
+	"a": {
+		"minimum": 34,
+		"maximum": 63
+	},
+	"b": {
+		"minimum": 35,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 57,
+		"maximum": 77
+	},
+	"b": {
+		"minimum": 57,
+		"maximum": 75
+	}
+},
+{
+	"a": {
+		"minimum": 43,
+		"maximum": 53
+	},
+	"b": {
+		"minimum": 42,
+		"maximum": 53
+	}
+},
+{
+	"a": {
+		"minimum": 14,
+		"maximum": 26
+	},
+	"b": {
+		"minimum": 21,
+		"maximum": 27
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 75
+	},
+	"b": {
+		"minimum": 65,
+		"maximum": 69
+	}
+},
+{
+	"a": {
+		"minimum": 15,
+		"maximum": 42
+	},
+	"b": {
+		"minimum": 41,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 15,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 89,
+		"maximum": 93
+	}
+},
+{
+	"a": {
+		"minimum": 83,
+		"maximum": 83
+	},
+	"b": {
+		"minimum": 18,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 13,
+		"maximum": 43
+	},
+	"b": {
+		"minimum": 43,
+		"maximum": 44
+	}
+},
+{
+	"a": {
+		"minimum": 69,
+		"maximum": 71
+	},
+	"b": {
+		"minimum": 69,
+		"maximum": 76
+	}
+},
+{
+	"a": {
+		"minimum": 6,
+		"maximum": 8
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 17,
+		"maximum": 75
+	},
+	"b": {
+		"minimum": 18,
+		"maximum": 18
+	}
+},
+{
+	"a": {
+		"minimum": 75,
+		"maximum": 83
+	},
+	"b": {
+		"minimum": 44,
+		"maximum": 76
+	}
+},
+{
+	"a": {
+		"minimum": 18,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 19,
+		"maximum": 62
+	}
+},
+{
+	"a": {
+		"minimum": 11,
+		"maximum": 54
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 90,
+		"maximum": 90
+	},
+	"b": {
+		"minimum": 80,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 79
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 9
+	}
+},
+{
+	"a": {
+		"minimum": 30,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 30,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 3,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 2
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 33
+	},
+	"b": {
+		"minimum": 8,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 54,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 53,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 21,
+		"maximum": 21
+	},
+	"b": {
+		"minimum": 20,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 31,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 60,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 32,
+		"maximum": 42
+	},
+	"b": {
+		"minimum": 31,
+		"maximum": 47
+	}
+},
+{
+	"a": {
+		"minimum": 23,
+		"maximum": 65
+	},
+	"b": {
+		"minimum": 23,
+		"maximum": 66
+	}
+},
+{
+	"a": {
+		"minimum": 41,
+		"maximum": 64
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 64
+	}
+},
+{
+	"a": {
+		"minimum": 22,
+		"maximum": 65
+	},
+	"b": {
+		"minimum": 15,
+		"maximum": 46
+	}
+},
+{
+	"a": {
+		"minimum": 86,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 85,
+		"maximum": 86
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 77
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 77
+	}
+},
+{
+	"a": {
+		"minimum": 20,
+		"maximum": 25
+	},
+	"b": {
+		"minimum": 21,
+		"maximum": 24
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 86
+	},
+	"b": {
+		"minimum": 85,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 46,
+		"maximum": 46
+	},
+	"b": {
+		"minimum": 47,
+		"maximum": 55
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 14
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 29,
+		"maximum": 38
+	},
+	"b": {
+		"minimum": 33,
+		"maximum": 37
+	}
+},
+{
+	"a": {
+		"minimum": 77,
+		"maximum": 81
+	},
+	"b": {
+		"minimum": 78,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 89
+	},
+	"b": {
+		"minimum": 88,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 95,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 65,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 12,
+		"maximum": 12
+	},
+	"b": {
+		"minimum": 8,
+		"maximum": 13
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 59
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 59
+	}
+},
+{
+	"a": {
+		"minimum": 54,
+		"maximum": 54
+	},
+	"b": {
+		"minimum": 55,
+		"maximum": 68
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 97
+	},
+	"b": {
+		"minimum": 53,
+		"maximum": 98
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 96
+	},
+	"b": {
+		"minimum": 54,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 11,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 11,
+		"maximum": 43
+	}
+},
+{
+	"a": {
+		"minimum": 65,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 64,
+		"maximum": 64
+	}
+},
+{
+	"a": {
+		"minimum": 35,
+		"maximum": 73
+	},
+	"b": {
+		"minimum": 35,
+		"maximum": 74
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 9
+	},
+	"b": {
+		"minimum": 9,
+		"maximum": 30
+	}
+},
+{
+	"a": {
+		"minimum": 49,
+		"maximum": 69
+	},
+	"b": {
+		"minimum": 49,
+		"maximum": 49
+	}
+},
+{
+	"a": {
+		"minimum": 57,
+		"maximum": 64
+	},
+	"b": {
+		"minimum": 1,
+		"maximum": 58
+	}
+},
+{
+	"a": {
+		"minimum": 46,
+		"maximum": 98
+	},
+	"b": {
+		"minimum": 47,
+		"maximum": 97
+	}
+},
+{
+	"a": {
+		"minimum": 5,
+		"maximum": 84
+	},
+	"b": {
+		"minimum": 92,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 13
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 46
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 50
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 50
+	}
+},
+{
+	"a": {
+		"minimum": 66,
+		"maximum": 94
+	},
+	"b": {
+		"minimum": 72,
+		"maximum": 95
+	}
+},
+{
+	"a": {
+		"minimum": 16,
+		"maximum": 16
+	},
+	"b": {
+		"minimum": 16,
+		"maximum": 84
+	}
+},
+{
+	"a": {
+		"minimum": 69,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 68,
+		"maximum": 80
+	}
+},
+{
+	"a": {
+		"minimum": 13,
+		"maximum": 30
+	},
+	"b": {
+		"minimum": 12,
+		"maximum": 75
+	}
+},
+{
+	"a": {
+		"minimum": 28,
+		"maximum": 29
+	},
+	"b": {
+		"minimum": 29,
+		"maximum": 78
+	}
+},
+{
+	"a": {
+		"minimum": 44,
+		"maximum": 79
+	},
+	"b": {
+		"minimum": 45,
+		"maximum": 92
+	}
+},
+{
+	"a": {
+		"minimum": 9,
+		"maximum": 63
+	},
+	"b": {
+		"minimum": 15,
+		"maximum": 62
+	}
+},
+{
+	"a": {
+		"minimum": 8,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 7,
+		"maximum": 28
+	}
+},
+{
+	"a": {
+		"minimum": 24,
+		"maximum": 83
+	},
+	"b": {
+		"minimum": 83,
+		"maximum": 86
+	}
+},
+{
+	"a": {
+		"minimum": 59,
+		"maximum": 64
+	},
+	"b": {
+		"minimum": 60,
+		"maximum": 60
+	}
+},
+{
+	"a": {
+		"minimum": 24,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 24,
+		"maximum": 24
+	}
+},
+{
+	"a": {
+		"minimum": 54,
+		"maximum": 58
+	},
+	"b": {
+		"minimum": 47,
+		"maximum": 57
+	}
+},
+{
+	"a": {
+		"minimum": 27,
+		"maximum": 38
+	},
+	"b": {
+		"minimum": 13,
+		"maximum": 37
+	}
+},
+{
+	"a": {
+		"minimum": 14,
+		"maximum": 15
+	},
+	"b": {
+		"minimum": 15,
+		"maximum": 71
+	}
+},
+{
+	"a": {
+		"minimum": 76,
+		"maximum": 85
+	},
+	"b": {
+		"minimum": 73,
+		"maximum": 85
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 17
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 90
+	}
+},
+{
+	"a": {
+		"minimum": 4,
+		"maximum": 95
+	},
+	"b": {
+		"minimum": 5,
+		"maximum": 96
+	}
+},
+{
+	"a": {
+		"minimum": 16,
+		"maximum": 77
+	},
+	"b": {
+		"minimum": 17,
+		"maximum": 25
+	}
+},
+{
+	"a": {
+		"minimum": 32,
+		"maximum": 63
+	},
+	"b": {
+		"minimum": 39,
+		"maximum": 63
+	}
+},
+{
+	"a": {
+		"minimum": 30,
+		"maximum": 74
+	},
+	"b": {
+		"minimum": 52,
+		"maximum": 75
+	}
+},
+{
+	"a": {
+		"minimum": 51,
+		"maximum": 99
+	},
+	"b": {
+		"minimum": 98,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 72,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 72,
+		"maximum": 87
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 87
+	},
+	"b": {
+		"minimum": 3,
+		"maximum": 88
+	}
+},
+{
+	"a": {
+		"minimum": 1,
+		"maximum": 29
+	},
+	"b": {
+		"minimum": 6,
+		"maximum": 89
+	}
+},
+{
+	"a": {
+		"minimum": 20,
+		"maximum": 61
+	},
+	"b": {
+		"minimum": 32,
+		"maximum": 64
+	}
+},
+{
+	"a": {
+		"minimum": 64,
+		"maximum": 91
+	},
+	"b": {
+		"minimum": 63,
+		"maximum": 91
+	}
+},
+{
+	"a": {
+		"minimum": 10,
+		"maximum": 11
+	},
+	"b": {
+		"minimum": 10,
+		"maximum": 54
+	}
+},
+{
+	"a": {
+		"minimum": 2,
+		"maximum": 70
+	},
+	"b": {
+		"minimum": 2,
+		"maximum": 2
+	}
+},
+{
+	"a": {
+		"minimum": 72,
+		"maximum": 83
+	},
+	"b": {
+		"minimum": 72,
+		"maximum": 82
+	}
+},
+{
+	"a": {
+		"minimum": 7,
+		"maximum": 63
+	},
+	"b": {
+		"minimum": 13,
+		"maximum": 99
+	}
+},
+{
+	"a": {
+		"minimum": 66,
+		"maximum": 93
+	},
+	"b": {
+		"minimum": 67,
+		"maximum": 92
+	}
+}]

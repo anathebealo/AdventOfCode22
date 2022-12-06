@@ -1,0 +1,14 @@
+{ 
+  "config": [["Z", "N"], ["M", "C", "D"], ["P"]],
+  "moves": [{
+        "count": 1, "starting": 2, "ending": 1
+    },
+    {
+        "count": 3, "starting": 1, "ending": 3
+    },
+    {
+        "count": 2, "starting": 2, "ending": 1
+    },
+    {
+        "count": 1, "starting": 1, "ending": 2
+}]}

@@ -1,0 +1,9 @@
+{
+  "tests": [
+    {"input": "mjqjpqmgbljsphdztnvjfqwrcgsmlb", "answer": 19},
+    {"input": "bvwbjplbgvbhsrlpgdmjqwftvncz", "answer": 23},
+    {"input": "nppdvjthqldpwncqszvftbrmjlhg", "answer": 23},
+    {"input": "nznrnfrfntjfmvfwmzdfjlvtqnbhcprsg", "answer": 29},
+    {"input": "zcfzfwzzqfrljwzlrfnpqdbhtmscgvjw", "answer": 26}
+  ]
+ }

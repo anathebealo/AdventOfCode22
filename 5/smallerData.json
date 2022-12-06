@@ -1,0 +1,25 @@
+{ 
+  "config": [["F", "T", "C", "L", "R", "P", "G", "Q"], 
+  ["N", "Q", "H", "W", "R", "F", "S", "J"],
+  ["F", "B", "H", "W", "P", "M", "Q"],
+  ["V", "S", "T", "D", "F"],
+  ["Q", "L", "D", "W", "V", "F", "Z"],
+  ["Z", "C", "L", "S"],
+  ["Z", "B", "M", "V", "D", "F"],
+  ["T", "J", "B"],
+  ["Q", "N", "B", "G", "L", "S", "P", "H"]],
+  "moves": [
+    {
+      "count": 1, "starting": 8, "ending": 1
+    },
+    {
+      "count": 1, "starting": 6, "ending": 1
+    },
+    {
+      "count": 3, "starting": 7, "ending": 4
+    },
+    {
+      "count": 3, "starting": 2, "ending": 9
+    }
+  ]
+}
