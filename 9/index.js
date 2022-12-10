@@ -1,4 +1,3 @@
-const { dir } = require('node:console');
 const fs = require('node:fs');
 const readline = require('node:readline');
 const path = require('path');
