@@ -1,0 +1,74 @@
+{
+  "0": {
+    "startingItems": [66, 79],
+    "operation": "old * 11",
+    "test": {
+      "divisibleBy": 7,
+      "ifTrue": 6,
+      "ifFalse": 7
+    }
+  },
+  "1": {
+    "startingItems": [84, 94, 94, 81, 98, 75],
+    "operation": "old * 17",
+    "test": {
+      "divisibleBy": 13,
+      "ifTrue": 5,
+      "ifFalse": 2
+    }
+  },
+  "2": {
+    "startingItems": [85, 79, 59, 64, 79, 95, 67],
+    "operation": "old + 8",
+    "test": {
+      "divisibleBy": 5,
+      "ifTrue": 4,
+      "ifFalse": 5
+    }
+  },
+  "3": {
+    "startingItems": [70],
+    "operation": "old + 3",
+    "test": {
+      "divisibleBy": 19,
+      "ifTrue": 6,
+      "ifFalse": 0
+    }
+  },
+  "4": {
+    "startingItems": [57, 69, 78, 78],
+    "operation": "old + 4",
+    "test": {
+      "divisibleBy": 2,
+      "ifTrue": 0,
+      "ifFalse": 3
+    }
+  },
+  "5": {
+    "startingItems": [65, 92, 60, 74, 72],
+    "operation": "old + 7",
+    "test": {
+      "divisibleBy": 11,
+      "ifTrue": 3,
+      "ifFalse": 4
+    }
+  },
+  "6": {
+    "startingItems": [77, 91, 91],
+    "operation": "old * old",
+    "test": {
+      "divisibleBy": 17,
+      "ifTrue": 1,
+      "ifFalse": 7
+    }
+  },
+  "7": {
+    "startingItems": [76, 58, 57, 55, 67, 77, 54, 99],
+    "operation": "old + 6",
+    "test": {
+      "divisibleBy": 3,
+      "ifTrue": 2,
+      "ifFalse": 1  
+      }
+    }
+}

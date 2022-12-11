@@ -1,0 +1,38 @@
+{
+  "0": {
+    "startingItems": [79, 98],
+    "operation": "old * 19",
+    "test": {
+      "divisibleBy": 23,
+      "ifTrue": 2,
+      "ifFalse": 3
+    }
+  },
+  "1": {
+    "startingItems": [54, 65, 75, 74],
+    "operation": "old + 6",
+    "test": {
+      "divisibleBy": 19,
+      "ifTrue": 2,
+      "ifFalse": 0
+    }
+  },
+  "2": {
+    "startingItems": [79, 60, 97],
+    "operation": "old * old",
+    "test": {
+      "divisibleBy": 13,
+      "ifTrue": 1,
+      "ifFalse": 3
+    }
+  },
+  "3": {
+    "startingItems": [74],
+    "operation": "old + 3",
+    "test": {
+      "divisibleBy": 17,
+      "ifTrue": 0,
+      "ifFalse": 1
+    }
+  }
+}
