@@ -1,5 +1,6 @@
 const fs = require('node:fs');
 const readline = require('node:readline');
+const { performance } = require('perf_hooks');
 const path = require('path');
 
 const dataFile = {
@@ -56,7 +57,7 @@ const checkPerimeterOfSensor = (sensor, sensorData) => {
         if(!checkIfSpotInAnySensor({ x: xSpot, y: ySpot }, sensorData)) {
           // we're done!
           console.log('part 2 cell: ' + JSON.stringify({ x: xSpot, y: ySpot }));
-          console.log('part 2 answer: ' + xSpot*fileToUse.part2Multiply + ySpot);
+          console.log('part 2 answer: ' + (parseInt(xSpot*fileToUse.part2Multiply) + parseInt(ySpot)));
           return true;
         }
       }
