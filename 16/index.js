@@ -5,7 +5,6 @@ const {
   Stack,
 } = require('@datastructures-js/stack');
 const path = require('path');
-const { start } = require('node:repl');
 
 const dataFile = {
   name: 'data.txt',
